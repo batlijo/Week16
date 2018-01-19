@@ -8,4 +8,10 @@ nightmare.js: behavior driven testing...mimicking the browser
 
 -user stories are used in project management
 
-  WHAT ARE USER STORIES ???
+  WHAT ARE USER STORIES ??? what does the code look like
+
+  nightmare is to generate browser and you can use it in conjunction with mocha for unit testing
+
+  require("chai") = THIS IS TO USE MOCHA
+
+  so tests will show you what an app would look like and if there are errors it will tell you in english what is wrong and what it's supposed to do.
