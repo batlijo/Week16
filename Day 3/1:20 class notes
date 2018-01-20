@@ -1,0 +1,15 @@
+1.20.18
+
+Test runners:
+
+Karma.conf.js
+
+using the karma cli tool to run these tests
+on the command line:
+create a directory
+then a few other steps
+create a package.json
+install specific packages
+npm install -g [this installs the package globally]
+karma cli is the package
+then do npm i chai karma mocha browserify
